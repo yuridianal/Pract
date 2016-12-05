@@ -1,1 +1,41 @@
-
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sistema Bibliotecario", "Sistema Bibliotecario\Sistema Bibliotecario.vbproj", "{3B2085FB-4672-4918-AE99-F5BEF98AD14F}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "BIBLIO", "BIBLIO\BIBLIO.isproj", "{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2085FB-4672-4918-AE99-F5BEF98AD14F}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.Debug|Any CPU.ActiveCfg = DVD-5
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.Debug|Any CPU.Build.0 = DVD-5
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.DVD-5|Any CPU.Build.0 = DVD-5
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.Release|Any CPU.ActiveCfg = SingleImage
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.Release|Any CPU.Build.0 = SingleImage
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{04F2794F-B7F4-4FC0-B2D3-D55C44764D69}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
